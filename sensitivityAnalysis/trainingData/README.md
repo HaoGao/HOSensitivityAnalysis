@@ -1,0 +1,5 @@
+# trainingData
+
+This subdirectory contains the data used to train the GP emualators (``trainData.txt``) and validate them (``testData.txt``). These are the results of running a forward simulation of the diastolic filling of the left ventricle geometry of a healthy volunteer. See the manuscript for details.
+
+Each text file has the same format: the first 11 columns contain the input variables used, and the final five columns contain the output QoIs calculated from the resulting simulation. These output columns are: **Vol** (end-diastolic volume), **Apex_Twist** (torsion) , **C11** (circumferential strains) , **L11** (longitudinal strains), **R11** (radial strains). The **11** in the names of the strains refers to the region of the myocardium where they have been calculated, again see the manuscript for details.
