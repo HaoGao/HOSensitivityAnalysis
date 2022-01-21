@@ -1,0 +1,1 @@
+This chapter is extracted from Alan Lazarus's PhD thesis, "Surrogate modelling of a patient-specific mathematical model of the left ventricle in diastole", University of Glasgow, 2022.
